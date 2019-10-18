@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 10px;
+}
+p{
+    font-size: 30px;
+}
+.profile-pic{
+    width: 750px;
+    height: 750px;
+    border: 9px inset orange;
+    border-radius: 50%;
+}
